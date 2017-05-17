@@ -1,4 +1,3 @@
-
 /**
  * ***********************************************************
  * Autorskie Prawa Majątkowe Kamil Zemczak
@@ -14,5 +13,8 @@
  * @author Kamil Zemczak
  */
 public class Dupa {
-    
+    System.out.println();
+    a
+            a;''
+    a;a;
 }
