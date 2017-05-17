@@ -13,8 +13,5 @@
  * @author Kamil Zemczak
  */
 public class Dupa {
-    System.out.println();
-    a
-            a;''
-    a;a;
+  
 }
